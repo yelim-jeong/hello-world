@@ -1,1 +1,3 @@
-Hi my name is yelim.
+# About me
+
+My name is Yelim Jeong.
